@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Application-Firebase</string>
+    <string name="Id">txtId</string>
+    <string name="Name">txtName</string>
+    <string name="Address">txtAddress</string>
+    <string name="Save">btnSave</string>
+    <string name="Show">btnShow</string>
+    <string name="Delete">btnDelete</string>
+    <string name="Update">btnUpdate</string>
+    <string name="ContactNo">txtContactNo</string>
+</resources>
